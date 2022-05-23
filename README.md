@@ -1,1 +1,1 @@
-<a href="https://aakarsh.me" target="_blank"><img align="left" alt="aakarsh.me" width="22px" src=https://github.com/gilberthputra/gilberthputra/blob/main/icons/linkedin-brands.svg /></a>
+<a href="https://www.linkedin.com/in/gilbert-putra/"><img align="left" width="22px" src=https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg /></a>
