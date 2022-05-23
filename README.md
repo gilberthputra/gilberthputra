@@ -1,1 +1,1 @@
-<i class="fa-brands fa-linkedin"></i>
+<p><i class="fa-brands fa-linkedin"></i></p>
