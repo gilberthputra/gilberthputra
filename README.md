@@ -24,7 +24,7 @@ Welcome to my Github portfolio!
 - **[NYC Yellow Taxi Tip Amount Prediction Based on Hourly Weather Forecast](https://github.com/gilberthputra/nyc-tlc.git)**: Data Science Project
 
 ## Articles:
-- **[Understanding and Implementing Classification Model Evaluation Method (Accuracy, Precision, Recall and F- Score) in Python from scratch]**(https://medium.com/@gilbertputra/understanding-and-implementing-classification-model-evaluation-method-accuracy-precision-recall-d5b611e714ba): 
+- **[Understanding and Implementing Classification Model Evaluation Method (Accuracy, Precision, Recall and F- Score) in Python from scratch](https://medium.com/@gilbertputra/understanding-and-implementing-classification-model-evaluation-method-accuracy-precision-recall-d5b611e714ba)**: 
 
 ## 📬 Get in Touch:
 
