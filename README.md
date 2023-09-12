@@ -1,6 +1,3 @@
-<a href="https://www.linkedin.com/in/gilbert-putra/"><img align="left" width="22px" src=https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg /></a>
-
-
 # Gilbert Putra
 
 Hi there! I'm Gilbert, a dynamic Master of Data Science graduate with diverse experience across biotech and energy sectors.
@@ -31,7 +28,7 @@ Welcome to my Github portfolio!
 
 ## 📬 Get in Touch:
 
-- LinkedIn <img align="left" width="22px" src=https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/brands/linkedin.svg /> : [gilbert-putra](https://linkedin.com/in/gilbert-putra)
+- LinkedIn: [gilbert-putra](https://linkedin.com/in/gilbert-putra)
 - Email: harlimgilbert@gmail.com
 
 🤙 Let's collaborate and make waves in the world of data!
