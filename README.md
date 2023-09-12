@@ -13,10 +13,10 @@ Welcome to my Github portfolio!
 
 ## 🛠 Technologies & Tools:
 
-- Programming Languages: Python, JavaScript, SQL, HTML, CSS, SCSS, R, C, C#, shaderLAB, LaTeX
-- Development Stack: ReactJs, Flask, Apache CouchDB, SQLAlchemy
-- Python Libraries: PySpark, TensorFlow, pandas, NumPy, GeoPandas, statsmodels, Glmnet, scikit- learn, SciPy, seaborn, Matplotlib, Folium, Bokeh, Gym
-- Technologies: GitHub, Docker, Ansible, WSL2, Linux, CLI, Unity3D, Bitbucket, Sourcetree
+- **Programming Languages**: Python, JavaScript, SQL, HTML, CSS, SCSS, R, C, C#, shaderLAB, LaTeX
+- **Development Stack**: ReactJs, Flask, Apache CouchDB, SQLAlchemy
+- **Python Libraries**: PySpark, TensorFlow, pandas, NumPy, GeoPandas, statsmodels, Glmnet, scikit- learn, SciPy, seaborn, Matplotlib, Folium, Bokeh, Gym
+- **Technologies**: GitHub, Docker, Ansible, WSL2, Linux, CLI, Unity3D, Bitbucket, Sourcetree
 
 ## 📈 Projects:
 
