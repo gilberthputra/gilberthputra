@@ -20,6 +20,7 @@ Welcome to my Github portfolio!
 
 ## 📈 Projects:
 
+- **[Cancer Analytics Pipeline](https://github.com/gilberthputra/cancer_dashboard_pipeline)**: Snowflake Data Engineer Project
 - **[Run4yourlife - Unity3D Game Development](https://drive.google.com/file/d/189VBfLyFgp0B8fROGil_d8-Fo_Qcnvm7/view?usp=sharing)**: An Endless Runner Game
 - **[NYC Yellow Taxi Tip Amount Prediction Based on Hourly Weather Forecast](https://github.com/gilberthputra/nyc-tlc.git)**: Data Science Project
 
